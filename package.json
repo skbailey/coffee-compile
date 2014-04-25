@@ -1,0 +1,20 @@
+{
+  "name": "coffee-compile",
+  "description": "Sample project showing how to serve coffeescript files to the browser",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "~3.4.8",
+    "static-favicon": "~1.0.0",
+    "morgan": "~1.0.0",
+    "cookie-parser": "~1.0.1",
+    "body-parser": "~1.0.0",
+    "debug": "~0.7.4",
+    "jade": "~1.3.0",
+    "coffee-middleware": "^0.2.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.4"
+  }
+}
